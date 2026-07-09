@@ -11,4 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Christiansimss/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[linkedin]=(https://www.linkedin.com/in/christian-sims-7b84b423b/) 
+linkedin:(https://www.linkedin.com/in/christian-sims-7b84b423b/) 
