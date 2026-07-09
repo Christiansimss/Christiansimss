@@ -13,8 +13,4 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt=[(https://www.linkedin.com/in/christian-sims-7b84b423b/)[linkedin]
-
-
-[
-[linkedin]:
+[linkedin]:=[(https://www.linkedin.com/in/christian-sims-7b84b423b/)
