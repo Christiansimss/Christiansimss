@@ -13,7 +13,7 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt=(https://www.linkedin.com/in/christian-sims-7b84b423b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)/>][linkedin]
+[<img align="left" alt=[(https://www.linkedin.com/in/christian-sims-7b84b423b/)[linkedin]
 
 
 [
