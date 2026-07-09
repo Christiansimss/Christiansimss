@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christian, an <a href="https://linkedin.com/in/christian-sims">IAM Engineer
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 IAM Engineer Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Christiansimss/osticket-prereqs)
@@ -12,10 +12,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/christian-sims
+[<img align="left" alt=["Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" ](https://www.linkedin.com/in/christian-sims-7b84b423b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)/>][linkedin]
+
+
+[
+[linkedin]:
