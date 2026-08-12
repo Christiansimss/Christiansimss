@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian, an <a href="https://linkedin.com/in/christian-sims">IAM Engineer
+<h1>Hi, I'm Christian, an <a href="https://linkedin.com/in/christian-sims">IAM Specialist
 
 <h2>👨‍💻 IAM Engineer Projects:</h2>
 
