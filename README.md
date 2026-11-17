@@ -1,6 +1,6 @@
-<h1>Hi, I'm Christian, an <a href="https://linkedin.com/in/christian-sims">IAM Engineer
+<h1>Hi, I'm Christian, an <a href="https://linkedin.com/in/christian-sims">IAM Analyst
 
-<h2>👨‍💻 IAM Engineer Projects:</h2>
+<h2>👨‍💻 IAM Analyst Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Christiansimss/osticket-prereqs)
